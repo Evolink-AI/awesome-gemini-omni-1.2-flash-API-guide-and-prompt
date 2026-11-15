@@ -223,7 +223,7 @@ A ten-second shot pulls from a shoreline close-up to a wide island view.
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 Community Demo Wall
 
-Eighteen Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
+Twenty Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
 
 <table>
 <tr>
@@ -445,6 +445,34 @@ Campbell compares Omni Flash 1.2 and 1.1 on an emotional close-up. The breakdown
 [![Bicycle Ride Through Sunflowers](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
 
 A Flow showcase follows a cyclist through a sunflower field. The creator highlights the bicycle motion, and the video shows it from several angles, including close-ups of the wheel and handlebars.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-19"></a>
+**[Library Flythrough Season Edit](https://matveev.tech/gemini-omni-1-2-flash-obzor/)** · Павел Матвеев
+
+**Original winter clip**
+
+[![Library Flythrough Season Edit · Original winter clip](image/omni-1.2/community/library-winter-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t2-fpv-15s.mp4)
+
+**Summer edit**
+
+[![Library Flythrough Season Edit · Summer edit](image/omni-1.2/community/library-summer-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t3-edit-summer.mp4)
+
+Matveev asks Omni 1.2 Flash to turn a 15-second winter flythrough into summer. The edit keeps the route through the library and its dome window. The square gains new features and the building is redrawn.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-20"></a>
+**[A 45-Second Ad From Three Clips](https://www.youtube.com/watch?v=QlfWeyizT0k)** · Barthélémy Nobili
+
+[![A 45-Second Ad From Three Clips](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
+
+In a Google Flow tutorial, Nobili shows how three clips can make one 45-second ad. The preview opens the chapter where he presents the assembled result.
 
 </td>
 </tr>

@@ -223,7 +223,7 @@ Google 于 **2026年11月5日**发布的八组官方演示。阅读[原始发布
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社区演示墙
 
-收录创作者和工具团队发布的 18 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
+收录创作者和工具团队发布的 20 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
 
 <table>
 <tr>
@@ -445,6 +445,34 @@ Campbell 用一段情绪特写对比 Omni Flash 1.2 和 1.1。讲解展示了人
 [![骑车穿过向日葵田](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
 
 这段 Flow 演示跟随一名骑行者穿过向日葵田。创作者重点展示自行车的运动，从多个角度呈现骑行过程，包括车轮和车把的特写。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-19"></a>
+**[图书馆飞越镜头的季节切换](https://matveev.tech/gemini-omni-1-2-flash-obzor/)** · Павел Матвеев
+
+**冬季原片**
+
+[![图书馆飞越镜头的季节切换 · 冬季原片](image/omni-1.2/community/library-winter-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t2-fpv-15s.mp4)
+
+**改成夏季后的片段**
+
+[![图书馆飞越镜头的季节切换 · 改成夏季后的片段](image/omni-1.2/community/library-summer-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t3-edit-summer.mp4)
+
+Matveev 让 Omni 1.2 Flash 把一段 15 秒的冬季飞越镜头改成夏季。编辑后保留了穿过图书馆及其穹顶窗户的路线，广场新增了元素，建筑也被重新绘制。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-20"></a>
+**[用三个片段制作 45 秒广告](https://www.youtube.com/watch?v=QlfWeyizT0k)** · Barthélémy Nobili
+
+[![用三个片段制作 45 秒广告](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
+
+Nobili 在 Google Flow 教程中演示了如何将三个片段拼成一条 45 秒广告。点击预览可跳到展示最终成片的章节。
 
 </td>
 </tr>

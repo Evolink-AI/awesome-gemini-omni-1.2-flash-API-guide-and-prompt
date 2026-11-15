@@ -223,7 +223,7 @@ Un plan de dix secondes passe d’un gros plan sur le rivage à une vue large de
 <a id="omni12-community-demos"></a>
 ## 🎥 Démonstrations de la communauté Gemini Omni 1.2
 
-Dix-huit exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
+Vingt exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
 
 <table>
 <tr>
@@ -445,6 +445,34 @@ Campbell compare Omni Flash 1.2 et 1.1 sur un gros plan chargé d’émotion. L�
 [![Balade à vélo dans un champ de tournesols](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
 
 Une démonstration sur Flow suit une personne à vélo à travers un champ de tournesols. Le créateur souligne le mouvement du vélo, que la vidéo montre sous plusieurs angles, notamment en gros plan sur la roue et le guidon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-19"></a>
+**[Traversée de la bibliothèque, de l’hiver à l’été](https://matveev.tech/gemini-omni-1-2-flash-obzor/)** · Павел Матвеев
+
+**Clip hivernal original**
+
+[![Traversée de la bibliothèque, de l’hiver à l’été · Clip hivernal original](image/omni-1.2/community/library-winter-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t2-fpv-15s.mp4)
+
+**Version estivale retouchée**
+
+[![Traversée de la bibliothèque, de l’hiver à l’été · Version estivale retouchée](image/omni-1.2/community/library-summer-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t3-edit-summer.mp4)
+
+Matveev demande à Omni 1.2 Flash de transformer un survol hivernal de 15 secondes en scène estivale. La retouche conserve le trajet à travers la bibliothèque et la fenêtre de son dôme. De nouveaux éléments apparaissent sur la place et le bâtiment est redessiné.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-20"></a>
+**[Une publicité de 45 secondes à partir de trois clips](https://www.youtube.com/watch?v=QlfWeyizT0k)** · Barthélémy Nobili
+
+[![Une publicité de 45 secondes à partir de trois clips](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
+
+Dans un tutoriel sur Google Flow, Nobili montre comment réunir trois clips en une publicité de 45 secondes. La vignette ouvre le chapitre où il présente le montage final.
 
 </td>
 </tr>

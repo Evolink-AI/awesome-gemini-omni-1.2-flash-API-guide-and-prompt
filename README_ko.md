@@ -223,7 +223,7 @@ Google이 **2026년 11월 5일** 공개한 공식 데모 8개입니다. [원본 
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 커뮤니티 데모 모음
 
-크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 18개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
+크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 20개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
 
 <table>
 <tr>
@@ -445,6 +445,34 @@ Campbell은 감정 변화를 담은 클로즈업으로 Omni Flash 1.2와 1.1을 
 [![해바라기밭을 달리는 자전거](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
 
 Flow 데모는 해바라기밭을 자전거로 달리는 사람을 따라갑니다. 제작자는 자전거의 움직임에 주목하며 바퀴와 핸들 클로즈업을 포함해 여러 각도에서 주행 장면을 보여 줍니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-19"></a>
+**[도서관을 통과하는 비행 장면의 계절 바꾸기](https://matveev.tech/gemini-omni-1-2-flash-obzor/)** · Павел Матвеев
+
+**겨울 원본 영상**
+
+[![도서관을 통과하는 비행 장면의 계절 바꾸기 · 겨울 원본 영상](image/omni-1.2/community/library-winter-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t2-fpv-15s.mp4)
+
+**여름으로 바꾼 영상**
+
+[![도서관을 통과하는 비행 장면의 계절 바꾸기 · 여름으로 바꾼 영상](image/omni-1.2/community/library-summer-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t3-edit-summer.mp4)
+
+Matveev는 Omni 1.2 Flash에 15초짜리 겨울 비행 장면을 여름으로 바꿔 달라고 요청했습니다. 도서관과 돔의 창을 통과하는 경로를 유지하면서 광장에 새로운 요소가 추가되고 건물이 새롭게 그려졌습니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-20"></a>
+**[클립 세 편으로 만든 45초 광고](https://www.youtube.com/watch?v=QlfWeyizT0k)** · Barthélémy Nobili
+
+[![클립 세 편으로 만든 45초 광고](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
+
+Nobili는 Google Flow 튜토리얼에서 클립 세 편을 이어 45초 광고 한 편을 만드는 방법을 보여 줍니다. 미리보기를 선택하면 완성한 광고를 소개하는 챕터부터 재생됩니다.
 
 </td>
 </tr>
