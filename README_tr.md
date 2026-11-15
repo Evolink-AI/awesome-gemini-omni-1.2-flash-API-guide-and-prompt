@@ -223,7 +223,7 @@ On saniyelik bir çekim, kıyıdaki yakın plandan uzaklaşarak adanın geniş b
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 topluluk demoları
 
-İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı on sekiz Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
+İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı yirmi Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
 
 <table>
 <tr>
@@ -445,6 +445,34 @@ Campbell, duygusal bir yakın planda Omni Flash 1.2 ile 1.1’i karşılaştır�
 [![Ayçiçeği tarlasında bisiklet turu](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
 
 Flow’da hazırlanan bir demo, ayçiçeği tarlasında ilerleyen bir bisikletliyi takip ediyor. İçerik üreticisi bisikletin hareketine dikkat çekiyor. Video, tekerlek ve gidonun yakın çekimleri dahil olmak üzere hareketi farklı açılardan gösteriyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-19"></a>
+**[Kütüphane çekiminde kıştan yaza geçiş](https://matveev.tech/gemini-omni-1-2-flash-obzor/)** · Павел Матвеев
+
+**Özgün kış klibi**
+
+[![Kütüphane çekiminde kıştan yaza geçiş · Özgün kış klibi](image/omni-1.2/community/library-winter-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t2-fpv-15s.mp4)
+
+**Yaz için düzenlenen klip**
+
+[![Kütüphane çekiminde kıştan yaza geçiş · Yaz için düzenlenen klip](image/omni-1.2/community/library-summer-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t3-edit-summer.mp4)
+
+Matveev, Omni 1.2 Flash’tan 15 saniyelik bir kış çekimini yaz sahnesine dönüştürmesini istiyor. Düzenleme, kameranın kütüphane içindeki rotasını ve kubbenin penceresini koruyor. Meydana yeni unsurlar ekleniyor ve bina yeniden çiziliyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-20"></a>
+**[Üç klipten 45 saniyelik bir reklam](https://www.youtube.com/watch?v=QlfWeyizT0k)** · Barthélémy Nobili
+
+[![Üç klipten 45 saniyelik bir reklam](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
+
+Nobili, Google Flow eğitiminde üç klibin nasıl birleştirilip 45 saniyelik tek bir reklama dönüştürüldüğünü gösteriyor. Önizleme, birleştirilmiş sonucu sunduğu bölümü açıyor.
 
 </td>
 </tr>

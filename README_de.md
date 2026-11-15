@@ -223,7 +223,7 @@ Eine zehnsekündige Aufnahme zieht sich von einer Nahansicht der Küste bis zu e
 <a id="omni12-community-demos"></a>
 ## 🎥 Community-Demos zu Gemini Omni 1.2
 
-Achtzehn Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
+Zwanzig Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
 
 <table>
 <tr>
@@ -445,6 +445,34 @@ Campbell vergleicht Omni Flash 1.2 und 1.1 in einer emotionalen Nahaufnahme. Die
 [![Fahrradfahrt durch ein Sonnenblumenfeld](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
 
 Eine Flow-Demo begleitet eine Person auf dem Fahrrad durch ein Sonnenblumenfeld. Der Urheber hebt die Bewegung des Fahrrads hervor. Das Video zeigt sie aus mehreren Blickwinkeln, darunter Nahaufnahmen von Rad und Lenker.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-19"></a>
+**[Bibliotheksflug vom Winter in den Sommer](https://matveev.tech/gemini-omni-1-2-flash-obzor/)** · Павел Матвеев
+
+**Originalclip im Winter**
+
+[![Bibliotheksflug vom Winter in den Sommer · Originalclip im Winter](image/omni-1.2/community/library-winter-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t2-fpv-15s.mp4)
+
+**Bearbeitete Sommerfassung**
+
+[![Bibliotheksflug vom Winter in den Sommer · Bearbeitete Sommerfassung](image/omni-1.2/community/library-summer-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t3-edit-summer.mp4)
+
+Matveev bittet Omni 1.2 Flash, einen 15-sekündigen winterlichen Kameraflug in eine Sommerszene zu verwandeln. Die Bearbeitung behält die Flugroute durch die Bibliothek und das Fenster in ihrer Kuppel bei. Auf dem Platz kommen neue Elemente hinzu und das Gebäude wird neu gezeichnet.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-20"></a>
+**[Ein 45-sekündiger Werbespot aus drei Clips](https://www.youtube.com/watch?v=QlfWeyizT0k)** · Barthélémy Nobili
+
+[![Ein 45-sekündiger Werbespot aus drei Clips](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
+
+In einem Google-Flow-Tutorial zeigt Nobili, wie sich drei Clips zu einem 45-sekündigen Werbespot zusammensetzen lassen. Die Vorschau öffnet das Kapitel, in dem er das fertige Ergebnis zeigt.
 
 </td>
 </tr>

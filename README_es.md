@@ -223,7 +223,7 @@ Una toma de diez segundos se aleja de un primer plano de la costa hasta mostrar 
 <a id="omni12-community-demos"></a>
 ## 🎥 Galería de demos de la comunidad de Gemini Omni 1.2
 
-Dieciocho ejemplos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el video original. El título enlaza a la publicación o el artículo del autor. Si el autor compartió el prompt, lo encontrarás allí.
+Veinte ejemplos de Gemini Omni 1.2 Flash publicados por creadores y equipos que desarrollan herramientas. Selecciona una imagen de vista previa para ver el video original. El título enlaza a la publicación o el artículo del autor. Si el autor compartió el prompt, lo encontrarás allí.
 
 <table>
 <tr>
@@ -445,6 +445,34 @@ Campbell compara Omni Flash 1.2 y 1.1 en un primer plano emotivo. El análisis s
 [![Paseo en bicicleta entre girasoles](image/omni-1.2/community/sunflower-bicycle.jpg)](https://video.twimg.com/amplify_video/2119871561221947393/vid/avc1/640x360/mnbbtEViiNZpNX5D.mp4)
 
 Una demostración en Flow sigue a un ciclista por un campo de girasoles. El creador destaca el movimiento de la bicicleta, que se ve desde varios ángulos, con primeros planos de la rueda y el manillar.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-19"></a>
+**[De invierno a verano en un recorrido por la biblioteca](https://matveev.tech/gemini-omni-1-2-flash-obzor/)** · Павел Матвеев
+
+**Clip original de invierno**
+
+[![De invierno a verano en un recorrido por la biblioteca · Clip original de invierno](image/omni-1.2/community/library-winter-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t2-fpv-15s.mp4)
+
+**Versión editada en verano**
+
+[![De invierno a verano en un recorrido por la biblioteca · Versión editada en verano](image/omni-1.2/community/library-summer-flythrough.jpg)](https://matveev.tech/content/media/2026/11/t3-edit-summer.mp4)
+
+Matveev le pide a Omni 1.2 Flash que convierta en una escena de verano un recorrido aéreo invernal de 15 segundos. La edición conserva el trayecto por la biblioteca y la ventana de su cúpula. Aparecen elementos nuevos en la plaza y se redibuja el edificio.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-20"></a>
+**[Un anuncio de 45 segundos a partir de tres clips](https://www.youtube.com/watch?v=QlfWeyizT0k)** · Barthélémy Nobili
+
+[![Un anuncio de 45 segundos a partir de tres clips](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
+
+En un tutorial de Google Flow, Nobili muestra cómo combinar tres clips en un anuncio de 45 segundos. La vista previa abre el capítulo en el que presenta el montaje final.
 
 </td>
 </tr>
