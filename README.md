@@ -223,7 +223,7 @@ A ten-second shot pulls from a shoreline close-up to a wide island view.
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 Community Demo Wall
 
-Twenty Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
+Twenty-two Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
 
 <table>
 <tr>
@@ -473,6 +473,34 @@ Matveev asks Omni 1.2 Flash to turn a 15-second winter flythrough into summer. T
 [![A 45-Second Ad From Three Clips](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
 
 In a Google Flow tutorial, Nobili shows how three clips can make one 45-second ad. The preview opens the chapter where he presents the assembled result.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-21"></a>
+**[Multi-Shot K-Pop Dance From Two References](https://note.com/truenorthai/n/neeea7869a0e7)** · TrueNorthAI
+
+**Gemini Omni 1.2 Flash**
+
+[![Multi-Shot K-Pop Dance From Two References · Gemini Omni 1.2 Flash](image/omni-1.2/community/kpop-multishot-omni.jpg)](https://www.youtube.com/watch?v=T56t39OyK0w)
+
+**Seedance 2.5**
+
+[![Multi-Shot K-Pop Dance From Two References · Seedance 2.5](image/omni-1.2/community/kpop-multishot-seedance.jpg)](https://www.youtube.com/watch?v=18BAVdyKwfE)
+
+TrueNorthAI uses the same character and location reference sheets to compare 15-second vertical dance clips in Gemini Omni 1.2 Flash and Seedance 2.5. The creator requests eight shots and adapts the prompt to each model. The source also reports a separate attempt blocked by a public-figure check on a fictional character.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-22"></a>
+**[Marble Chain Reaction at 360p](https://developers.cloudflare.com/ai/models/google/gemini-omni-1.2-flash/)** · Cloudflare
+
+[![Marble Chain Reaction at 360p](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
+
+Cloudflare publishes a 360p text-to-video example of a marble rolling through a wooden track and knocking over dominoes. The preview is a frame from the original output, and the linked documentation contains the prompt.
 
 </td>
 </tr>

@@ -223,7 +223,7 @@ Un plan de dix secondes passe d’un gros plan sur le rivage à une vue large de
 <a id="omni12-community-demos"></a>
 ## 🎥 Démonstrations de la communauté Gemini Omni 1.2
 
-Vingt exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
+Vingt-deux exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
 
 <table>
 <tr>
@@ -473,6 +473,34 @@ Matveev demande à Omni 1.2 Flash de transformer un survol hivernal de 15 second
 [![Une publicité de 45 secondes à partir de trois clips](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
 
 Dans un tutoriel sur Google Flow, Nobili montre comment réunir trois clips en une publicité de 45 secondes. La vignette ouvre le chapitre où il présente le montage final.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-21"></a>
+**[Danse K-pop en plusieurs plans à partir de deux références](https://note.com/truenorthai/n/neeea7869a0e7)** · TrueNorthAI
+
+**Gemini Omni 1.2 Flash**
+
+[![Danse K-pop en plusieurs plans à partir de deux références · Gemini Omni 1.2 Flash](image/omni-1.2/community/kpop-multishot-omni.jpg)](https://www.youtube.com/watch?v=T56t39OyK0w)
+
+**Seedance 2.5**
+
+[![Danse K-pop en plusieurs plans à partir de deux références · Seedance 2.5](image/omni-1.2/community/kpop-multishot-seedance.jpg)](https://www.youtube.com/watch?v=18BAVdyKwfE)
+
+TrueNorthAI utilise les mêmes fiches de référence pour le personnage et le lieu afin de comparer des clips de danse verticaux de 15 secondes réalisés avec Gemini Omni 1.2 Flash et Seedance 2.5. Le créateur demande huit plans et adapte le prompt à chaque modèle. L’article signale aussi un autre essai, bloqué parce qu’un contrôle des personnalités publiques s’est déclenché sur un personnage fictif.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-22"></a>
+**[Réaction en chaîne avec une bille en 360p](https://developers.cloudflare.com/ai/models/google/gemini-omni-1.2-flash/)** · Cloudflare
+
+[![Réaction en chaîne avec une bille en 360p](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
+
+Cloudflare publie un exemple de vidéo générée à partir de texte en 360p. Une bille roule sur une piste en bois et renverse des dominos. La vignette provient de la vidéo originale et la documentation liée contient le prompt.
 
 </td>
 </tr>

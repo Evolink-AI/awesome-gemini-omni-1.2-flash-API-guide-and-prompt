@@ -223,7 +223,7 @@ Google が **2026年11月5日**に公開した8件の公式デモです。[元�
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 コミュニティデモ集
 
-クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を20件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
+クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を22件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
 
 <table>
 <tr>
@@ -473,6 +473,34 @@ Matveev は Omni 1.2 Flash に、冬の15秒の飛行シーンを夏に変える
 [![3本のクリップで作る45秒の広告](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
 
 Nobili は Google Flow のチュートリアルで、3本のクリップをつないで45秒の広告を作る方法を紹介しています。プレビューを選ぶと、完成した広告を紹介するチャプターから再生できます。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-21"></a>
+**[2枚の参照画像から作る複数ショットのK-POPダンス](https://note.com/truenorthai/n/neeea7869a0e7)** · TrueNorthAI
+
+**Gemini Omni 1.2 Flash**
+
+[![2枚の参照画像から作る複数ショットのK-POPダンス · Gemini Omni 1.2 Flash](image/omni-1.2/community/kpop-multishot-omni.jpg)](https://www.youtube.com/watch?v=T56t39OyK0w)
+
+**Seedance 2.5**
+
+[![2枚の参照画像から作る複数ショットのK-POPダンス · Seedance 2.5](image/omni-1.2/community/kpop-multishot-seedance.jpg)](https://www.youtube.com/watch?v=18BAVdyKwfE)
+
+TrueNorthAI は同じキャラクターとロケーションの参照シートを使い、Gemini Omni 1.2 Flash と Seedance 2.5 で生成した15秒の縦型ダンス動画を比較しています。作者は8ショットを指定し、モデルごとにプロンプトを調整しました。記事では、架空のキャラクターが著名人のチェックに引っかかり、別の試行がブロックされたことも報告しています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-22"></a>
+**[ビー玉が起こす連鎖反応を360pで生成](https://developers.cloudflare.com/ai/models/google/gemini-omni-1.2-flash/)** · Cloudflare
+
+[![ビー玉が起こす連鎖反応を360pで生成](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
+
+Cloudflare は、テキストから生成した360pの動画作例を公開しています。ビー玉が木製のコースを転がり、ドミノを倒します。プレビューは元の出力から切り出したフレームです。リンク先のドキュメントにプロンプトが掲載されています。
 
 </td>
 </tr>

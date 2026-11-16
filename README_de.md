@@ -223,7 +223,7 @@ Eine zehnsekündige Aufnahme zieht sich von einer Nahansicht der Küste bis zu e
 <a id="omni12-community-demos"></a>
 ## 🎥 Community-Demos zu Gemini Omni 1.2
 
-Zwanzig Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
+Zweiundzwanzig Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
 
 <table>
 <tr>
@@ -473,6 +473,34 @@ Matveev bittet Omni 1.2 Flash, einen 15-sekündigen winterlichen Kameraflug in e
 [![Ein 45-sekündiger Werbespot aus drei Clips](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
 
 In einem Google-Flow-Tutorial zeigt Nobili, wie sich drei Clips zu einem 45-sekündigen Werbespot zusammensetzen lassen. Die Vorschau öffnet das Kapitel, in dem er das fertige Ergebnis zeigt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-21"></a>
+**[K-Pop-Tanz in mehreren Einstellungen mit zwei Vorlagen](https://note.com/truenorthai/n/neeea7869a0e7)** · TrueNorthAI
+
+**Gemini Omni 1.2 Flash**
+
+[![K-Pop-Tanz in mehreren Einstellungen mit zwei Vorlagen · Gemini Omni 1.2 Flash](image/omni-1.2/community/kpop-multishot-omni.jpg)](https://www.youtube.com/watch?v=T56t39OyK0w)
+
+**Seedance 2.5**
+
+[![K-Pop-Tanz in mehreren Einstellungen mit zwei Vorlagen · Seedance 2.5](image/omni-1.2/community/kpop-multishot-seedance.jpg)](https://www.youtube.com/watch?v=18BAVdyKwfE)
+
+TrueNorthAI verwendet dieselben Referenzblätter für die Figur und den Schauplatz und vergleicht 15-sekündige Tanzclips im Hochformat aus Gemini Omni 1.2 Flash und Seedance 2.5. Der Urheber gibt acht Einstellungen vor und passt den Prompt an das jeweilige Modell an. Der Artikel beschreibt einen weiteren Versuch, den eine Prüfung auf Personen des öffentlichen Lebens bei einer fiktiven Figur blockierte.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-22"></a>
+**[Murmel-Kettenreaktion in 360p](https://developers.cloudflare.com/ai/models/google/gemini-omni-1.2-flash/)** · Cloudflare
+
+[![Murmel-Kettenreaktion in 360p](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
+
+Cloudflare veröffentlicht ein Text-zu-Video-Beispiel in 360p, in dem eine Murmel durch eine Holzbahn rollt und Dominosteine umstößt. Das Vorschaubild ist ein Einzelbild aus dem Originalvideo. Die verlinkte Dokumentation enthält den Prompt.
 
 </td>
 </tr>
