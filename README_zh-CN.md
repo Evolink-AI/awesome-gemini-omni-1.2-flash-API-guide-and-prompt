@@ -223,7 +223,7 @@ Google 于 **2026年11月5日**发布的八组官方演示。阅读[原始发布
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社区演示墙
 
-收录创作者和工具团队发布的 20 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
+收录创作者和工具团队发布的 22 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
 
 <table>
 <tr>
@@ -473,6 +473,34 @@ Matveev 让 Omni 1.2 Flash 把一段 15 秒的冬季飞越镜头改成夏季。�
 [![用三个片段制作 45 秒广告](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
 
 Nobili 在 Google Flow 教程中演示了如何将三个片段拼成一条 45 秒广告。点击预览可跳到展示最终成片的章节。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-21"></a>
+**[用两张参考图生成多镜头 K-pop 舞蹈](https://note.com/truenorthai/n/neeea7869a0e7)** · TrueNorthAI
+
+**Gemini Omni 1.2 Flash**
+
+[![用两张参考图生成多镜头 K-pop 舞蹈 · Gemini Omni 1.2 Flash](image/omni-1.2/community/kpop-multishot-omni.jpg)](https://www.youtube.com/watch?v=T56t39OyK0w)
+
+**Seedance 2.5**
+
+[![用两张参考图生成多镜头 K-pop 舞蹈 · Seedance 2.5](image/omni-1.2/community/kpop-multishot-seedance.jpg)](https://www.youtube.com/watch?v=18BAVdyKwfE)
+
+TrueNorthAI 使用同一组角色和场景参考图，对比了 Gemini Omni 1.2 Flash 和 Seedance 2.5 生成的 15 秒竖屏舞蹈片段。创作者要求生成 8 个镜头，并针对各模型调整提示词。原文还提到，另一次生成尝试因虚构角色触发公众人物检查而被拦截。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-22"></a>
+**[360p 弹珠连锁反应](https://developers.cloudflare.com/ai/models/google/gemini-omni-1.2-flash/)** · Cloudflare
+
+[![360p 弹珠连锁反应](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
+
+Cloudflare 发布了一段 360p 文生视频示例，画面中弹珠沿木制轨道滚动并撞倒多米诺骨牌。预览图取自原始输出的一帧，链接的文档中附有提示词。
 
 </td>
 </tr>

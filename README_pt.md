@@ -223,7 +223,7 @@ Um plano de dez segundos se afasta de um close-up da orla até uma vista ampla d
 <a id="omni12-community-demos"></a>
 ## 🎥 Mural de demonstrações da comunidade do Gemini Omni 1.2
 
-Vinte exemplos do Gemini Omni 1.2 Flash publicados por criadores e equipes que desenvolvem ferramentas. Selecione uma prévia para assistir ao vídeo original. O título leva à publicação ou ao artigo do autor, onde você encontra o prompt quando ele foi compartilhado.
+Vinte e dois exemplos do Gemini Omni 1.2 Flash publicados por criadores e equipes que desenvolvem ferramentas. Selecione uma prévia para assistir ao vídeo original. O título leva à publicação ou ao artigo do autor, onde você encontra o prompt quando ele foi compartilhado.
 
 <table>
 <tr>
@@ -473,6 +473,34 @@ Matveev pede ao Omni 1.2 Flash que transforme um voo de 15 segundos em um cenár
 [![Um anúncio de 45 segundos feito com três clipes](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
 
 Em um tutorial do Google Flow, Nobili mostra como combinar três clipes em um anúncio de 45 segundos. A prévia abre o capítulo em que ele apresenta o resultado da montagem.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-21"></a>
+**[Dança de K-pop em vários planos com duas referências](https://note.com/truenorthai/n/neeea7869a0e7)** · TrueNorthAI
+
+**Gemini Omni 1.2 Flash**
+
+[![Dança de K-pop em vários planos com duas referências · Gemini Omni 1.2 Flash](image/omni-1.2/community/kpop-multishot-omni.jpg)](https://www.youtube.com/watch?v=T56t39OyK0w)
+
+**Seedance 2.5**
+
+[![Dança de K-pop em vários planos com duas referências · Seedance 2.5](image/omni-1.2/community/kpop-multishot-seedance.jpg)](https://www.youtube.com/watch?v=18BAVdyKwfE)
+
+A TrueNorthAI usa as mesmas fichas de referência do personagem e do cenário para comparar vídeos verticais de dança de 15 segundos no Gemini Omni 1.2 Flash e no Seedance 2.5. A equipe pede oito planos e adapta o prompt a cada modelo. O artigo também relata uma tentativa separada em que a verificação de figuras públicas bloqueou um personagem fictício.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-22"></a>
+**[Reação em cadeia com bolinha de gude em 360p](https://developers.cloudflare.com/ai/models/google/gemini-omni-1.2-flash/)** · Cloudflare
+
+[![Reação em cadeia com bolinha de gude em 360p](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
+
+A Cloudflare publica um exemplo de geração de vídeo a partir de texto em 360p. Uma bolinha de gude percorre uma pista de madeira e derruba peças de dominó. A prévia é um quadro do vídeo original, e a documentação vinculada inclui o prompt.
 
 </td>
 </tr>

@@ -1,5 +1,10 @@
 # Update log
 
+## 2026-11-16
+
+- Added a reference-based K-pop dance comparison and a 360p marble chain reaction example.
+- Synchronized all eleven README languages and indexed the original media.
+
 ## 2026-11-15
 
 - Added two creator demos covering a seasonal edit of a 15-second flythrough and a 45-second ad assembled from three clips.

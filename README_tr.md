@@ -223,7 +223,7 @@ On saniyelik bir çekim, kıyıdaki yakın plandan uzaklaşarak adanın geniş b
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 topluluk demoları
 
-İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı yirmi Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
+İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı yirmi iki Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
 
 <table>
 <tr>
@@ -473,6 +473,34 @@ Matveev, Omni 1.2 Flash’tan 15 saniyelik bir kış çekimini yaz sahnesine dö
 [![Üç klipten 45 saniyelik bir reklam](image/omni-1.2/community/three-clip-ad.jpg)](https://www.youtube.com/watch?v=QlfWeyizT0k&t=762s)
 
 Nobili, Google Flow eğitiminde üç klibin nasıl birleştirilip 45 saniyelik tek bir reklama dönüştürüldüğünü gösteriyor. Önizleme, birleştirilmiş sonucu sunduğu bölümü açıyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-21"></a>
+**[İki referansla çok çekimli K-pop dansı](https://note.com/truenorthai/n/neeea7869a0e7)** · TrueNorthAI
+
+**Gemini Omni 1.2 Flash**
+
+[![İki referansla çok çekimli K-pop dansı · Gemini Omni 1.2 Flash](image/omni-1.2/community/kpop-multishot-omni.jpg)](https://www.youtube.com/watch?v=T56t39OyK0w)
+
+**Seedance 2.5**
+
+[![İki referansla çok çekimli K-pop dansı · Seedance 2.5](image/omni-1.2/community/kpop-multishot-seedance.jpg)](https://www.youtube.com/watch?v=18BAVdyKwfE)
+
+TrueNorthAI, Gemini Omni 1.2 Flash ve Seedance 2.5 ile oluşturulan 15 saniyelik dikey dans videolarını karşılaştırmak için aynı karakter ve mekân referans sayfalarını kullanıyor. İçerik üreticisi sekiz çekim istiyor ve istemi her modele uyarlıyor. Yazıda ayrıca, kurgusal bir karaktere uygulanan kamuya mal olmuş kişi denetiminin engellediği ayrı bir deneme anlatılıyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-22"></a>
+**[360p’de bilye zincirleme tepkimesi](https://developers.cloudflare.com/ai/models/google/gemini-omni-1.2-flash/)** · Cloudflare
+
+[![360p’de bilye zincirleme tepkimesi](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
+
+Cloudflare, bir bilyenin ahşap bir parkurda yuvarlanıp domino taşlarını devirdiği 360p çözünürlükte bir metinden video örneği yayımlıyor. Önizleme özgün videodan bir kare ve bağlantı verilen belgede istem yer alıyor.
 
 </td>
 </tr>
