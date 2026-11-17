@@ -223,7 +223,7 @@ Eine zehnsekündige Aufnahme zieht sich von einer Nahansicht der Küste bis zu e
 <a id="omni12-community-demos"></a>
 ## 🎥 Community-Demos zu Gemini Omni 1.2
 
-Zweiundzwanzig Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
+Vierundzwanzig Beispiele für Gemini Omni 1.2 Flash von Kreativen und Teams, die Tools entwickeln. Wähle ein Vorschaubild aus, um das Originalvideo anzusehen. Der Titel führt zum Beitrag oder Artikel der Urheber. Wenn sie den Prompt veröffentlicht haben, findest du ihn dort.
 
 <table>
 <tr>
@@ -501,6 +501,28 @@ TrueNorthAI verwendet dieselben Referenzblätter für die Figur und den Schaupla
 [![Murmel-Kettenreaktion in 360p](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
 
 Cloudflare veröffentlicht ein Text-zu-Video-Beispiel in 360p, in dem eine Murmel durch eine Holzbahn rollt und Dominosteine umstößt. Das Vorschaubild ist ein Einzelbild aus dem Originalvideo. Die verlinkte Dokumentation enthält den Prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-23"></a>
+**[Luftaufnahmen im Drohnenstil aus Google Earth Studio](https://www.youtube.com/watch?v=zfX26AFD4jU)** · KOTARO AI & VIDEO
+
+[![Luftaufnahmen im Drohnenstil aus Google Earth Studio](image/omni-1.2/community/earth-studio-aerial-edit.jpg)](https://www.youtube.com/watch?v=zfX26AFD4jU)
+
+KOTARO verwandelt mit Omni 1.2 Flash einen Kamerapfad aus Earth Studio in Material, das wie eine echte Aufnahme aussieht. Für die Eingangsmontage nutzte er die API in 1080p und gab pro Einstellung ein Ausgangsvideo und zwei Referenzfotos vor. Für den separaten Sakurajima-Test nutzte er nur das Ausgangsvideo. Die Anleitung zu Flow zeigt die Bearbeitung eines anderen Clips.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-24"></a>
+**[Bewegungstest für ein Musikvideo in Google Flow](https://note.com/ulf_pinkursa/n/n74f61740abdf)** · Miyu(ULF)_pinkursa
+
+[![Bewegungstest für ein Musikvideo in Google Flow](image/omni-1.2/community/flow-music-video-motion.jpg)](https://www.youtube.com/watch?v=cDIMkJAspsU)
+
+Miyu vergleicht Veo 3.1 Lite, Omni 1.1 Flash und Omni 1.2 Flash, um Szenen für ein Musikvideo auszuwählen. Wegen der flüssigeren Bewegungen und der konsistenteren Figur gefiel Miyu das Ergebnis von 1.2 besser. Die Übergabe des Mikrofons wirkte jedoch unbeholfen. Der Vergleich läuft ohne Ton, hält ab etwa 7,8 Sekunden das letzte Bild von Veo fest und beruht auf wenigen Versuchen.
 
 </td>
 </tr>
