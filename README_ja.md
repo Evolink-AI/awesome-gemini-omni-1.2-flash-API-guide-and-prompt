@@ -223,7 +223,7 @@ Google が **2026年11月5日**に公開した8件の公式デモです。[元�
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 コミュニティデモ集
 
-クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を22件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
+クリエイターやツール開発チームが公開した Gemini Omni 1.2 Flash の作例を24件紹介します。プレビューから元の動画を再生できます。タイトルからは作者の投稿や記事に移動でき、プロンプトが公開されている場合はそこで確認できます。
 
 <table>
 <tr>
@@ -501,6 +501,28 @@ TrueNorthAI は同じキャラクターとロケーションの参照シート�
 [![ビー玉が起こす連鎖反応を360pで生成](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
 
 Cloudflare は、テキストから生成した360pの動画作例を公開しています。ビー玉が木製のコースを転がり、ドミノを倒します。プレビューは元の出力から切り出したフレームです。リンク先のドキュメントにプロンプトが掲載されています。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-23"></a>
+**[Google Earth Studio から作るドローン空撮風の映像](https://www.youtube.com/watch?v=zfX26AFD4jU)** · KOTARO AI & VIDEO
+
+[![Google Earth Studio から作るドローン空撮風の映像](image/omni-1.2/community/earth-studio-aerial-edit.jpg)](https://www.youtube.com/watch?v=zfX26AFD4jU)
+
+KOTARO は Earth Studio で作ったカメラの軌道を、Omni 1.2 Flash で実写風の映像に仕上げています。冒頭のモンタージュでは、ショットごとに元動画と参照写真2枚を使い、API 経由で1080pの映像を生成しました。別途行った桜島のテストには元動画だけを使用し、Flow の解説では別のクリップを使った編集を紹介しています。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-24"></a>
+**[Google Flow で試すミュージックビデオの動き](https://note.com/ulf_pinkursa/n/n74f61740abdf)** · Miyu(ULF)_pinkursa
+
+[![Google Flow で試すミュージックビデオの動き](image/omni-1.2/community/flow-music-video-motion.jpg)](https://www.youtube.com/watch?v=cDIMkJAspsU)
+
+Miyu はミュージックビデオに使う映像を選ぶため、Veo 3.1 Lite、Omni 1.1 Flash、Omni 1.2 Flash を比較しています。動きの滑らかさとキャラクターの一貫性から1.2の映像を選び、マイクの受け渡しにはぎこちなさがあると指摘しました。比較映像は無音で、約7.8秒以降は Veo の最終フレームを表示し続けます。試行回数は少数です。
 
 </td>
 </tr>

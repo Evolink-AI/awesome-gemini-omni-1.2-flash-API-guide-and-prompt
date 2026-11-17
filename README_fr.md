@@ -223,7 +223,7 @@ Un plan de dix secondes passe d’un gros plan sur le rivage à une vue large de
 <a id="omni12-community-demos"></a>
 ## 🎥 Démonstrations de la communauté Gemini Omni 1.2
 
-Vingt-deux exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
+Vingt-quatre exemples réalisés avec Gemini Omni 1.2 Flash, publiés par des créateurs et des équipes qui développent des outils. Sélectionnez une vignette pour regarder la vidéo originale. Le titre renvoie à la publication ou à l’article de l’auteur. Vous y trouverez le prompt lorsque l’auteur l’a partagé.
 
 <table>
 <tr>
@@ -501,6 +501,28 @@ TrueNorthAI utilise les mêmes fiches de référence pour le personnage et le li
 [![Réaction en chaîne avec une bille en 360p](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
 
 Cloudflare publie un exemple de vidéo générée à partir de texte en 360p. Une bille roule sur une piste en bois et renverse des dominos. La vignette provient de la vidéo originale et la documentation liée contient le prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-23"></a>
+**[Plans aériens façon drone à partir de Google Earth Studio](https://www.youtube.com/watch?v=zfX26AFD4jU)** · KOTARO AI & VIDEO
+
+[![Plans aériens façon drone à partir de Google Earth Studio](image/omni-1.2/community/earth-studio-aerial-edit.jpg)](https://www.youtube.com/watch?v=zfX26AFD4jU)
+
+Avec Omni 1.2 Flash, KOTARO transforme un trajet de caméra d’Earth Studio en images qui ressemblent à des prises de vues réelles. Pour le montage d’ouverture, il utilise l’API en 1080p avec une vidéo source et deux photos de référence par plan. L’essai distinct de Sakurajima utilise uniquement la vidéo source. Le tutoriel sur Flow montre la retouche d’un autre clip.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-24"></a>
+**[Essai de mouvement pour un clip musical dans Google Flow](https://note.com/ulf_pinkursa/n/n74f61740abdf)** · Miyu(ULF)_pinkursa
+
+[![Essai de mouvement pour un clip musical dans Google Flow](image/omni-1.2/community/flow-music-video-motion.jpg)](https://www.youtube.com/watch?v=cDIMkJAspsU)
+
+Miyu compare Veo 3.1 Lite, Omni 1.1 Flash et Omni 1.2 Flash pour choisir des plans pour un clip musical. Le résultat de la version 1.2 lui plaît davantage pour la fluidité des mouvements et la cohérence du personnage, malgré un passage de micro maladroit. La comparaison est muette, fige la dernière image de Veo à partir d’environ 7,8 secondes et repose sur un petit nombre d’essais.
 
 </td>
 </tr>

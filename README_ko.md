@@ -223,7 +223,7 @@ Google이 **2026년 11월 5일** 공개한 공식 데모 8개입니다. [원본 
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 커뮤니티 데모 모음
 
-크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 22개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
+크리에이터와 도구 개발팀이 공개한 Gemini Omni 1.2 Flash 사례 24개를 모았습니다. 미리보기를 선택하면 원본 영상을 재생할 수 있습니다. 제목은 제작자의 게시물이나 글로 연결되며, 공개된 프롬프트는 해당 출처에서 확인할 수 있습니다.
 
 <table>
 <tr>
@@ -501,6 +501,28 @@ TrueNorthAI는 같은 캐릭터 및 장소 참조 시트를 사용해 Gemini Omn
 [![360p 구슬 연쇄 반응](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
 
 Cloudflare는 구슬이 나무 트랙을 굴러가다가 도미노를 쓰러뜨리는 360p 텍스트 기반 영상 생성 예시를 공개했습니다. 미리보기는 원본 결과에서 추출한 프레임이며, 링크된 문서에 프롬프트가 실려 있습니다.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-23"></a>
+**[Google Earth Studio로 만든 드론 촬영풍 영상](https://www.youtube.com/watch?v=zfX26AFD4jU)** · KOTARO AI & VIDEO
+
+[![Google Earth Studio로 만든 드론 촬영풍 영상](image/omni-1.2/community/earth-studio-aerial-edit.jpg)](https://www.youtube.com/watch?v=zfX26AFD4jU)
+
+KOTARO는 Earth Studio에서 만든 카메라 경로를 Omni 1.2 Flash로 실사풍 영상으로 바꿉니다. 도입부 몽타주는 쇼트마다 원본 영상과 참조 사진 두 장을 사용해 API로 1080p 영상을 생성했습니다. 별도의 사쿠라지마 테스트에는 원본 영상만 사용했으며, Flow 튜토리얼에서는 다른 클립을 편집하는 과정을 보여 줍니다.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-24"></a>
+**[Google Flow에서 뮤직비디오 동작 테스트](https://note.com/ulf_pinkursa/n/n74f61740abdf)** · Miyu(ULF)_pinkursa
+
+[![Google Flow에서 뮤직비디오 동작 테스트](image/omni-1.2/community/flow-music-video-motion.jpg)](https://www.youtube.com/watch?v=cDIMkJAspsU)
+
+Miyu는 뮤직비디오에 사용할 영상을 고르기 위해 Veo 3.1 Lite, Omni 1.1 Flash, Omni 1.2 Flash를 비교합니다. 제작자는 움직임이 더 부드럽고 캐릭터가 더 일관되게 유지된 1.2의 결과를 선호했으며, 마이크를 건네는 동작이 어색하다고 짚었습니다. 비교 영상은 음소거되어 있고 약 7.8초 후에는 Veo의 마지막 프레임을 고정합니다. 비교에 사용된 시도는 소수입니다.
 
 </td>
 </tr>

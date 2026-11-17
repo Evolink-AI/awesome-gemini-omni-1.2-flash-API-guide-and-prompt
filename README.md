@@ -223,7 +223,7 @@ A ten-second shot pulls from a shoreline close-up to a wide island view.
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 Community Demo Wall
 
-Twenty-two Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
+Twenty-four Gemini Omni 1.2 Flash examples from creators and tool teams. Select a preview to watch the original video. The title links to the author’s post or write-up, with the prompt where the author shared it.
 
 <table>
 <tr>
@@ -501,6 +501,28 @@ TrueNorthAI uses the same character and location reference sheets to compare 15-
 [![Marble Chain Reaction at 360p](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
 
 Cloudflare publishes a 360p text-to-video example of a marble rolling through a wooden track and knocking over dominoes. The preview is a frame from the original output, and the linked documentation contains the prompt.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-23"></a>
+**[Drone-Style Aerial Edits From Google Earth Studio](https://www.youtube.com/watch?v=zfX26AFD4jU)** · KOTARO AI & VIDEO
+
+[![Drone-Style Aerial Edits From Google Earth Studio](image/omni-1.2/community/earth-studio-aerial-edit.jpg)](https://www.youtube.com/watch?v=zfX26AFD4jU)
+
+KOTARO turns an Earth Studio camera path into live-action-style footage with Omni 1.2 Flash. The opening montage used a source video and two reference photos per shot via the API at 1080p. The separate Sakurajima test used the source video alone, and the Flow walkthrough shows an edit from a different clip.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-24"></a>
+**[Music Video Motion Test in Google Flow](https://note.com/ulf_pinkursa/n/n74f61740abdf)** · Miyu(ULF)_pinkursa
+
+[![Music Video Motion Test in Google Flow](image/omni-1.2/community/flow-music-video-motion.jpg)](https://www.youtube.com/watch?v=cDIMkJAspsU)
+
+Miyu compares Veo 3.1 Lite, Omni 1.1 Flash, and Omni 1.2 Flash to choose footage for a music video. The creator preferred the 1.2 result for smoother motion and a more consistent character, but noted an awkward microphone handoff. The comparison is muted, holds Veo’s last frame after about 7.8 seconds, and reflects a small number of attempts.
 
 </td>
 </tr>

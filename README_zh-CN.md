@@ -223,7 +223,7 @@ Google 于 **2026年11月5日**发布的八组官方演示。阅读[原始发布
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 社区演示墙
 
-收录创作者和工具团队发布的 22 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
+收录创作者和工具团队发布的 24 个 Gemini Omni 1.2 Flash 示例。点击预览即可观看原片。标题链接至作者的帖子或文章，作者公开的提示词可在来源中查看。
 
 <table>
 <tr>
@@ -501,6 +501,28 @@ TrueNorthAI 使用同一组角色和场景参考图，对比了 Gemini Omni 1.2 
 [![360p 弹珠连锁反应](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
 
 Cloudflare 发布了一段 360p 文生视频示例，画面中弹珠沿木制轨道滚动并撞倒多米诺骨牌。预览图取自原始输出的一帧，链接的文档中附有提示词。
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-23"></a>
+**[用 Google Earth Studio 制作无人机航拍风格镜头](https://www.youtube.com/watch?v=zfX26AFD4jU)** · KOTARO AI & VIDEO
+
+[![用 Google Earth Studio 制作无人机航拍风格镜头](image/omni-1.2/community/earth-studio-aerial-edit.jpg)](https://www.youtube.com/watch?v=zfX26AFD4jU)
+
+KOTARO 用 Omni 1.2 Flash 将 Earth Studio 的相机轨迹转为实拍风格的画面。开场蒙太奇的每个镜头都通过 API 生成，分辨率为 1080p，输入包括一段源视频和两张参考照片。单独的樱岛测试只用了源视频，Flow 教程则展示了如何编辑另一个片段。
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-24"></a>
+**[在 Google Flow 中测试音乐视频的动作表现](https://note.com/ulf_pinkursa/n/n74f61740abdf)** · Miyu(ULF)_pinkursa
+
+[![在 Google Flow 中测试音乐视频的动作表现](image/omni-1.2/community/flow-music-video-motion.jpg)](https://www.youtube.com/watch?v=cDIMkJAspsU)
+
+Miyu 对比了 Veo 3.1 Lite、Omni 1.1 Flash 和 Omni 1.2 Flash，为音乐视频挑选素材。创作者更喜欢 1.2 的结果，因为动作更流畅，角色也更一致，同时指出递麦克风的动作显得生硬。对比视频静音播放，约 7.8 秒后定格在 Veo 的最后一帧，且仅基于少量尝试。
 
 </td>
 </tr>

@@ -223,7 +223,7 @@ On saniyelik bir çekim, kıyıdaki yakın plandan uzaklaşarak adanın geniş b
 <a id="omni12-community-demos"></a>
 ## 🎥 Gemini Omni 1.2 topluluk demoları
 
-İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı yirmi iki Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
+İçerik üreticilerinin ve araç geliştiren ekiplerin yayımladığı yirmi dört Gemini Omni 1.2 Flash örneği. Özgün videoyu izlemek için bir önizleme görselini seçin. Başlık, içeriği hazırlayan kişinin gönderisine veya yazısına bağlantı verir. İstem paylaşılmışsa onu da orada bulabilirsiniz.
 
 <table>
 <tr>
@@ -501,6 +501,28 @@ TrueNorthAI, Gemini Omni 1.2 Flash ve Seedance 2.5 ile oluşturulan 15 saniyelik
 [![360p’de bilye zincirleme tepkimesi](image/omni-1.2/community/cloudflare-marble-chain.jpg)](https://examples.aig.cloudflare.com/google/gemini-omni-1.2-flash/chain-reaction.mp4)
 
 Cloudflare, bir bilyenin ahşap bir parkurda yuvarlanıp domino taşlarını devirdiği 360p çözünürlükte bir metinden video örneği yayımlıyor. Önizleme özgün videodan bir kare ve bağlantı verilen belgede istem yer alıyor.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a id="omni12-community-23"></a>
+**[Google Earth Studio’dan drone tarzı hava çekimleri](https://www.youtube.com/watch?v=zfX26AFD4jU)** · KOTARO AI & VIDEO
+
+[![Google Earth Studio’dan drone tarzı hava çekimleri](image/omni-1.2/community/earth-studio-aerial-edit.jpg)](https://www.youtube.com/watch?v=zfX26AFD4jU)
+
+KOTARO, Earth Studio’daki kamera rotasını Omni 1.2 Flash ile gerçek çekim görünümünde görüntülere dönüştürüyor. Açılış montajında API üzerinden 1080p üretim yapıyor ve her çekim için bir kaynak video ile iki referans fotoğraf kullanıyor. Ayrı Sakurajima testinde yalnızca kaynak video kullanılıyor. Flow anlatımında başka bir klibin düzenlenmesi gösteriliyor.
+
+</td>
+<td width="50%" valign="top">
+
+<a id="omni12-community-24"></a>
+**[Google Flow’da müzik klibi için hareket testi](https://note.com/ulf_pinkursa/n/n74f61740abdf)** · Miyu(ULF)_pinkursa
+
+[![Google Flow’da müzik klibi için hareket testi](image/omni-1.2/community/flow-music-video-motion.jpg)](https://www.youtube.com/watch?v=cDIMkJAspsU)
+
+Miyu, müzik klibinde kullanacağı görüntüleri seçmek için Veo 3.1 Lite, Omni 1.1 Flash ve Omni 1.2 Flash’ı karşılaştırıyor. Daha akıcı hareket ve daha tutarlı bir karakter için 1.2 çıktısını tercih ediyor, ancak mikrofonun el değiştirdiği anı yapay buluyor. Karşılaştırma sessiz, yaklaşık 7,8 saniyeden sonra Veo’nun son karesi ekranda kalıyor ve değerlendirme az sayıda denemeye dayanıyor.
 
 </td>
 </tr>
