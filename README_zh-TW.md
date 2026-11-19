@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.png" width="760" alt="Gemini Omni 指南與提示詞庫"></a>
+<a href="https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.png" width="760" alt="Gemini Omni 指南與提示詞庫"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![試用 Gemini Omni 1.2 Flash](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=model_try)
+[![試用 Gemini Omni 1.2 Flash](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=model_try)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -20,7 +20,7 @@
 <a id="omni-1-2-guide"></a>
 ## 🆕 Gemini Omni 1.2 Flash
 
-Google 將 Gemini Omni 1.2 Flash 列為 GA（正式開放使用），發布日期為 **2026 年 11 月 5 日**。相較於 1.1，主要變化是適用任務最長可生成 **15 秒**影片，以及新增**獨立影片升頻**。請閱讀 [Google 模型規格](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash)與 [EvoLink 的 11 月 5 日公告](https://evolink.ai/changelog?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=release_source#2026-11-05-gemini-omni-1-2-flash)。
+Google 將 Gemini Omni 1.2 Flash 列為 GA（正式開放使用），發布日期為 **2026 年 11 月 5 日**。相較於 1.1，主要變化是適用任務最長可生成 **15 秒**影片，以及新增**獨立影片升頻**。請閱讀 [Google 模型規格](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash)與 [EvoLink 模型詳情頁](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=release_model)。
 
 - 接受文字、圖片與影片輸入；輸出包含同步語音、音樂與音效的影片。不支援音訊檔案輸入或聲音編輯。
 - 原生輸出為 **360p / 720p**；**1080p / 4K 透過升頻取得**，並非原生 4K。文件列出的輸出為 24 fps，支援 16:9 或 9:16。
@@ -29,16 +29,16 @@ Google 將 Gemini Omni 1.2 Flash 列為 GA（正式開放使用），發布日�
 
 ### 選擇 EvoLink 任務
 
-每項任務均連結至各自的請求規格。切換任務路由前，請先閱讀[完整參數文件](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=parameter_overview)。
+下表整理各任務的限制。API 文件可從模型詳情頁開啟。 [EvoLink 模型詳情頁](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=parameter_overview)
 
 | 任務 | 適用情境 | 各路由的限制 |
 | :--- | :--- | :--- |
-| [閱讀文生影片文件](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_text) | 以文字提示詞建立鏡頭。 | 3–15 秒。 |
-| [閱讀圖生影片文件](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_image) | 讓單張首幀動起來，或銜接首幀與尾幀。 | 一張圖片：3–15 秒；兩張圖片：3–10 秒。 |
-| [閱讀參考素材生影片文件](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_reference) | 以圖片或影片參考引導新鏡頭。 | 最多 10 張圖片與 3 段參考影片；輸出超過 10 秒時，最多 1 段參考影片。 |
-| [閱讀影片編輯文件](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_edit) | 以提示詞修改現有片段。 | 一段最長 15 秒的輸入影片；可選擇加入參考圖片；畫質預設為 `auto`。 |
-| [閱讀影片延伸文件](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-extend?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_extend) | 接續片段的結尾。 | 一段最長 30 秒的輸入影片；新增 3–10 秒。 |
-| [閱讀影片升頻文件](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-upscale?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_upscale) | 提升已選定成片的解析度。 | 輸入最長 15 秒，須為支援的標準尺寸；不需要提示詞。請留意下方的平台差異。 |
+| [閱讀文生影片文件 (從模型詳情頁進入)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_text) | 以文字提示詞建立鏡頭。 | 3–15 秒。 |
+| [閱讀圖生影片文件 (從模型詳情頁進入)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_image) | 讓單張首幀動起來，或銜接首幀與尾幀。 | 一張圖片：3–15 秒；兩張圖片：3–10 秒。 |
+| [閱讀參考素材生影片文件 (從模型詳情頁進入)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_reference) | 以圖片或影片參考引導新鏡頭。 | 最多 10 張圖片與 3 段參考影片；輸出超過 10 秒時，最多 1 段參考影片。 |
+| [閱讀影片編輯文件 (從模型詳情頁進入)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_edit) | 以提示詞修改現有片段。 | 一段最長 15 秒的輸入影片；可選擇加入參考圖片；畫質預設為 `auto`。 |
+| [閱讀影片延伸文件 (從模型詳情頁進入)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_extend) | 接續片段的結尾。 | 一段最長 30 秒的輸入影片；新增 3–10 秒。 |
+| [閱讀影片升頻文件 (從模型詳情頁進入)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_upscale) | 提升已選定成片的解析度。 | 輸入最長 15 秒，須為支援的標準尺寸；不需要提示詞。請留意下方的平台差異。 |
 
 ### 平台與版本差異
 
@@ -53,7 +53,7 @@ Google 將 Gemini Omni 1.2 Flash 列為 GA（正式開放使用），發布日�
 <a id="quick-start"></a>
 ## ⚡ 快速開始
 
-[在瀏覽器中試用 Gemini Omni 1.2 Flash](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=browser_try)，或[閱讀最新任務文件](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=task_docs)。
+[在瀏覽器中試用 Gemini Omni 1.2 Flash](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=browser_try)，或[閱讀最新任務文件 (從模型詳情頁進入)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=task_docs)。
 
 請從上方任務表選擇文生影片、圖生影片、參考素材生成、編輯、延伸或升頻。輸入素材、限制與結果取得流程，請依所選任務的最新文件操作。
 
@@ -1475,7 +1475,7 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 
 - [瀏覽 EvoLink 影片模型 API 指南](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide)。
 - [使用 EvoLink Media MCP 倉庫](https://github.com/EvoLinkAI/evolink-media-mcp)。
-- [在 EvoLink 探索 Seedance 2.5](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=related_seedance)。
+- [在 EvoLink 探索 Seedance 2.5](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=related_seedance)。
 
 ## 🙏 致謝
 

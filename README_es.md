@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.png" width="760" alt="Guía de Gemini Omni y biblioteca de prompts"></a>
+<a href="https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.png" width="760" alt="Guía de Gemini Omni y biblioteca de prompts"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Probar Gemini Omni 1.2 Flash](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=model_try)
+[![Probar Gemini Omni 1.2 Flash](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=model_try)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -20,7 +20,7 @@
 <a id="omni-1-2-guide"></a>
 ## 🆕 Gemini Omni 1.2 Flash
 
-Google clasifica Gemini Omni 1.2 Flash como disponible de forma general (GA), con lanzamiento el **5 de noviembre de 2026**. Los principales cambios respecto a la versión 1.1 son la generación de hasta **15 segundos** en las rutas correspondientes y el **aumento independiente de la resolución de video**. Consulta las [especificaciones del modelo de Google](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash) y el [anuncio de EvoLink del 5 de noviembre](https://evolink.ai/changelog?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=release_source#2026-11-05-gemini-omni-1-2-flash).
+Google clasifica Gemini Omni 1.2 Flash como disponible de forma general (GA), con lanzamiento el **5 de noviembre de 2026**. Los principales cambios respecto a la versión 1.1 son la generación de hasta **15 segundos** en las rutas correspondientes y el **aumento independiente de la resolución de video**. Consulta las [especificaciones del modelo de Google](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash) y la [Página del modelo en EvoLink](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=release_model).
 
 - Entradas de texto, imagen y video; salida de video con voz, música y efectos de sonido sincronizados. No se admiten archivos de audio como entrada ni la edición de sonido.
 - Salida nativa en **360p / 720p**; **1080p / 4K se obtiene mediante aumento de resolución**, no es 4K nativo. La salida documentada es de 24 fps, en 16:9 o 9:16.
@@ -29,16 +29,16 @@ Google clasifica Gemini Omni 1.2 Flash como disponible de forma general (GA), co
 
 ### Elige una tarea de EvoLink
 
-Cada tarea enlaza a su propio contrato de solicitud. Consulta el [resumen completo de parámetros](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=parameter_overview) antes de cambiar de ruta.
+La tabla resume los límites de cada tarea. Abre la página del modelo para acceder a la documentación de la API. [Página del modelo en EvoLink](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=parameter_overview)
 
 | Tarea | Cuándo utilizarla | Límites de cada ruta |
 | :--- | :--- | :--- |
-| [Consulta la documentación de texto a video](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_text) | Crea una toma a partir de un prompt de texto. | 3–15 segundos. |
-| [Consulta la documentación de imagen a video](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_image) | Anima un primer fotograma o conecta el primero y el último. | Una imagen: 3–15 segundos; dos imágenes: 3–10 segundos. |
-| [Consulta la documentación de referencias a video](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_reference) | Guía una toma nueva con imágenes o videos de referencia. | Hasta 10 imágenes y 3 videos de referencia; para una salida superior a 10 segundos, como máximo 1 video de referencia. |
-| [Consulta la documentación de edición de video](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_edit) | Modifica un clip existente mediante un prompt. | Un video de entrada de hasta 15 segundos; imágenes de referencia opcionales; la calidad predeterminada es `auto`. |
-| [Consulta la documentación de extensión de video](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-extend?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_extend) | Continúa el final de un clip. | Un video de entrada de hasta 30 segundos; añade 3–10 segundos. |
-| [Consulta la documentación de aumento de resolución de video](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-upscale?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_upscale) | Aumenta la resolución de un clip terminado y seleccionado. | Entrada de hasta 15 segundos con un tamaño estándar admitido; sin prompt. Consulta las diferencias entre plataformas indicadas a continuación. |
+| [Consulta la documentación de texto a video (desde la página del modelo)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_text) | Crea una toma a partir de un prompt de texto. | 3–15 segundos. |
+| [Consulta la documentación de imagen a video (desde la página del modelo)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_image) | Anima un primer fotograma o conecta el primero y el último. | Una imagen: 3–15 segundos; dos imágenes: 3–10 segundos. |
+| [Consulta la documentación de referencias a video (desde la página del modelo)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_reference) | Guía una toma nueva con imágenes o videos de referencia. | Hasta 10 imágenes y 3 videos de referencia; para una salida superior a 10 segundos, como máximo 1 video de referencia. |
+| [Consulta la documentación de edición de video (desde la página del modelo)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_edit) | Modifica un clip existente mediante un prompt. | Un video de entrada de hasta 15 segundos; imágenes de referencia opcionales; la calidad predeterminada es `auto`. |
+| [Consulta la documentación de extensión de video (desde la página del modelo)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_extend) | Continúa el final de un clip. | Un video de entrada de hasta 30 segundos; añade 3–10 segundos. |
+| [Consulta la documentación de aumento de resolución de video (desde la página del modelo)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_upscale) | Aumenta la resolución de un clip terminado y seleccionado. | Entrada de hasta 15 segundos con un tamaño estándar admitido; sin prompt. Consulta las diferencias entre plataformas indicadas a continuación. |
 
 ### Diferencias entre plataformas y versiones
 
@@ -53,7 +53,7 @@ Fuentes consultadas: **6 de noviembre de 2026**.
 <a id="quick-start"></a>
 ## ⚡ Inicio rápido
 
-[Prueba Gemini Omni 1.2 Flash en el navegador](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=browser_try) o [consulta la documentación actual de las tareas](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=task_docs).
+[Prueba Gemini Omni 1.2 Flash en el navegador](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=browser_try) o [consulta la documentación actual de las tareas (desde la página del modelo)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=task_docs).
 
 Elige texto a video, imagen a video, referencias, edición, extensión o aumento de resolución en la tabla de tareas anterior. Sigue la documentación actual de la tarea elegida para conocer sus entradas, límites y flujo de resultados.
 
@@ -1469,7 +1469,7 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 
 - [Explora la guía de API de modelos de video de EvoLink](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide).
 - [Utiliza el repositorio EvoLink Media MCP](https://github.com/EvoLinkAI/evolink-media-mcp).
-- [Explora Seedance 2.5 en EvoLink](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=related_seedance).
+- [Explora Seedance 2.5 en EvoLink](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=related_seedance).
 
 ## 🙏 Agradecimientos
 
