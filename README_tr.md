@@ -1,9 +1,9 @@
 <div align="center">
 
-<a href="https://evolink.ai/gemini-omni?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.png" width="760" alt="Gemini Omni rehberi ve istem kütüphanesi"></a>
+<a href="https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=banner&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=readme_banner"><img src="image/guide-banner.png" width="760" alt="Gemini Omni rehberi ve istem kütüphanesi"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Gemini Omni 1.2 Flash modelini deneyin](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=model_try)
+[![Gemini Omni 1.2 Flash modelini deneyin](https://img.shields.io/badge/Try_Gemini_Omni_1.2_Flash-EvoLink-black)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=badge&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=model_try)
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md) [![🇪🇸 Español](https://img.shields.io/badge/🇪🇸_Español-Ver-ffb703)](README_es.md) [![🇵🇹 Português](https://img.shields.io/badge/🇵🇹_Português-Ver-2a9d8f)](README_pt.md) [![🇯🇵 日本語](https://img.shields.io/badge/🇯🇵_日本語-表示-52b788)](README_ja.md) [![🇰🇷 한국어](https://img.shields.io/badge/🇰🇷_한국어-보기-4ea8de)](README_ko.md) [![🇩🇪 Deutsch](https://img.shields.io/badge/🇩🇪_Deutsch-Ansehen-f4a261)](README_de.md) [![🇫🇷 Français](https://img.shields.io/badge/🇫🇷_Français-Voir-e76f51)](README_fr.md) [![🇹🇷 Türkçe](https://img.shields.io/badge/🇹🇷_Türkçe-Görüntüle-d62828)](README_tr.md) [![🇹🇼 繁體中文](https://img.shields.io/badge/🇹🇼_繁體中文-查看-8338ec)](README_zh-TW.md) [![🇨🇳 简体中文](https://img.shields.io/badge/🇨🇳_简体中文-查看-ef476f)](README_zh-CN.md) [![🇷🇺 Русский](https://img.shields.io/badge/🇷🇺_Русский-Смотреть-577590)](README_ru.md)
 
@@ -20,7 +20,7 @@
 <a id="omni-1-2-guide"></a>
 ## 🆕 Gemini Omni 1.2 Flash
 
-Google, **5 Kasım 2026** tarihinde yayımlanan Gemini Omni 1.2 Flash modelini genel kullanıma açık (GA) olarak listeler. 1.1 sürümüne göre başlıca değişiklikler, ilgili yollarda **15 saniyeye** kadar video üretimi ve **bağımsız video çözünürlüğü yükseltmedir**. [Google model özelliklerini](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash) ve [EvoLink'in 5 Kasım duyurusunu](https://evolink.ai/changelog?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=release_source#2026-11-05-gemini-omni-1-2-flash) okuyun.
+Google, **5 Kasım 2026** tarihinde yayımlanan Gemini Omni 1.2 Flash modelini genel kullanıma açık (GA) olarak listeler. 1.1 sürümüne göre başlıca değişiklikler, ilgili yollarda **15 saniyeye** kadar video üretimi ve **bağımsız video çözünürlüğü yükseltmedir**. [Google model özelliklerini](https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/gemini/omni-1-2-flash) ve [EvoLink model sayfası](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=release_model) sayfalarını inceleyin.
 
 - Metin, görüntü ve video girdileri; eşzamanlı konuşma, müzik ve ses efektleri içeren video çıktısı. Ses dosyası girdisi ve ses düzenleme desteklenmez.
 - Yerel **360p / 720p** çıktı; **1080p / 4K, çözünürlük yükseltmeyle elde edilir**, yerel 4K değildir. Belgelenen çıktı 24 fps olup 16:9 veya 9:16 en-boy oranındadır.
@@ -29,16 +29,16 @@ Google, **5 Kasım 2026** tarihinde yayımlanan Gemini Omni 1.2 Flash modelini g
 
 ### Bir EvoLink görevi seçin
 
-Her görev kendi istek sözleşmesine bağlantı verir. Görev yolunu değiştirmeden önce [tam parametre özetini](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=parameter_overview) okuyun.
+Tablo, görevlerin sınırlarını özetler. API belgelerine model sayfasından ulaşabilirsiniz. [EvoLink model sayfası](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=parameter_overview)
 
 | Görev | Ne zaman kullanılır? | Görev yoluna özgü sınırlar |
 | :--- | :--- | :--- |
-| [Metinden videoya belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-text-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_text) | Metin isteminden bir çekim oluşturun. | 3–15 saniye. |
-| [Görüntüden videoya belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-image-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_image) | Tek bir ilk kareyi canlandırın veya ilk ve son kareyi birbirine bağlayın. | Bir görüntü: 3–15 saniye; iki görüntü: 3–10 saniye. |
-| [Referanslardan videoya belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-reference-to-video?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_reference) | Yeni bir çekimi görüntü veya video referanslarıyla yönlendirin. | En fazla 10 görüntü ve 3 referans video; çıktı süresi 10 saniyeyi aşıyorsa en fazla 1 referans video. |
-| [Video düzenleme belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_edit) | Var olan bir klibi istem kullanarak değiştirin. | En fazla 15 saniyelik tek bir girdi videosu; isteğe bağlı referans görüntüler; kalite varsayılanı `auto`. |
-| [Video uzatma belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-extend?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_extend) | Bir klibin sonunu devam ettirin. | En fazla 30 saniyelik tek bir girdi videosu; 3–10 saniye eklenir. |
-| [Video çözünürlüğü yükseltme belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-video-upscale?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=route_upscale) | Seçilmiş, tamamlanmış bir klibin çözünürlüğünü artırın. | Desteklenen standart boyutta, en fazla 15 saniyelik girdi; istem gerekmez. Aşağıdaki platform farklarına bakın. |
+| [Metinden videoya belgelerini okuyun (model sayfası üzerinden)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_text) | Metin isteminden bir çekim oluşturun. | 3–15 saniye. |
+| [Görüntüden videoya belgelerini okuyun (model sayfası üzerinden)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_image) | Tek bir ilk kareyi canlandırın veya ilk ve son kareyi birbirine bağlayın. | Bir görüntü: 3–15 saniye; iki görüntü: 3–10 saniye. |
+| [Referanslardan videoya belgelerini okuyun (model sayfası üzerinden)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_reference) | Yeni bir çekimi görüntü veya video referanslarıyla yönlendirin. | En fazla 10 görüntü ve 3 referans video; çıktı süresi 10 saniyeyi aşıyorsa en fazla 1 referans video. |
+| [Video düzenleme belgelerini okuyun (model sayfası üzerinden)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_edit) | Var olan bir klibi istem kullanarak değiştirin. | En fazla 15 saniyelik tek bir girdi videosu; isteğe bağlı referans görüntüler; kalite varsayılanı `auto`. |
+| [Video uzatma belgelerini okuyun (model sayfası üzerinden)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_extend) | Bir klibin sonunu devam ettirin. | En fazla 30 saniyelik tek bir girdi videosu; 3–10 saniye eklenir. |
+| [Video çözünürlüğü yükseltme belgelerini okuyun (model sayfası üzerinden)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=route_upscale) | Seçilmiş, tamamlanmış bir klibin çözünürlüğünü artırın. | Desteklenen standart boyutta, en fazla 15 saniyelik girdi; istem gerekmez. Aşağıdaki platform farklarına bakın. |
 
 ### Platformlar ve sürümler arasındaki farklar
 
@@ -53,7 +53,7 @@ Kaynakların kontrol tarihi: **6 Kasım 2026**.
 <a id="quick-start"></a>
 ## ⚡ Hızlı başlangıç
 
-[Gemini Omni 1.2 Flash modelini tarayıcınızda deneyin](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=browser_try) veya [güncel görev belgelerini okuyun](https://evolink.ai/docs/en/api-manual/video-series/gemini-omni-1.2-flash/gemini-omni-1.2-flash-overview?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=task_docs).
+[Gemini Omni 1.2 Flash modelini tarayıcınızda deneyin](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=browser_try) veya [güncel görev belgelerini okuyun (model sayfası üzerinden)](https://evolink.ai/gemini-omni-1-2-flash?utm_source=github&utm_medium=quickstart&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=task_docs).
 
 Yukarıdaki görev tablosundan metinden videoya, görüntüden videoya, referanslar, düzenleme, uzatma veya çözünürlük yükseltme seçeneğini belirleyin. Girdiler, sınırlar ve sonuç iş akışı için seçtiğiniz görevin güncel belgelerini izleyin.
 
@@ -1469,7 +1469,7 @@ https://github.com/user-attachments/assets/df8dcb7c-c918-4fc2-b952-0cb2bcdddfee
 
 - [EvoLink video modelleri API rehberini inceleyin](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide).
 - [EvoLink Media MCP deposunu kullanın](https://github.com/EvoLinkAI/evolink-media-mcp).
-- [EvoLink'te Seedance 2.5 modelini inceleyin](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-guide-api-and-prompt&utm_content=related_seedance).
+- [EvoLink'te Seedance 2.5 modelini inceleyin](https://evolink.ai/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=awesome-gemini-omni-1.2-flash-api-guide-and-prompt&utm_content=related_seedance).
 
 ## 🙏 Teşekkürler
 
